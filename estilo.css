@@ -3,11 +3,27 @@ h1{
     font-size:25px;
 }
 p{
-    color:aquamarine 
+    color:red
 }
 h3{
     color:cornflowerblue
 }
 li{
     color:green
+}
+#titulo{
+    color: cyan;
+}
+.texto{
+    color:darkgrey
+}
+#titulo, .texto{
+    font-size: 20px;
+}
+.cor{
+    background-color:rgb(188, 190, 199);
+    color: #ff9c2f;
+}
+p{
+    border:5px dashed #d2c5a8
 }
